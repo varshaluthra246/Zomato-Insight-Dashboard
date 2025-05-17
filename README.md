@@ -1,18 +1,22 @@
 # Zomato-Insight-Dashboard
 
-# Project Objective -
+![Zomato-Company-coverpage project 1)](https://github.com/user-attachments/assets/db45a0c4-6f1c-4f24-89a4-7c0d429b7da1)
+
+
+# 🎯 Project Objective -
 The primary objective of this dashboard is to provide insights into Zomato’s business performance by analyzing key metrics related to customer satisfaction, order trends, delivery performance, and restaurant contributions. It is designed for operational decision-making and strategy development for Zomato's services. 
 <br>
 # Dataset -
-Dataset Name - "Data Model - Madhav_Store.xlsx" and "Data Model - Madhav_Store2.xlsx".
-1) "Data Model - Madhav_Store.xlsx" - this dataset contains city, customer name, order date, order id, state.
-2) "Data Model - Madhav_Store2.xlsx" - this dataset contains amount, AOV, category, order id, profit, quality, sub-category, test.
+
+[Zomato (project 1).xlsx](https://github.com/user-attachments/files/20263730/Zomato.project.1.xlsx)
+
+
 <br>
 
 <img width="722" alt="powerbi_project1_ss" src="https://github.com/user-attachments/assets/d97a13e8-6a64-4e7c-8f5f-981b2b920072" />
 
 
-# 𝐊𝐏𝐈 𝐂𝐚𝐫𝐝𝐬
+# 📈 𝐊𝐏𝐈 𝐂𝐚𝐫𝐝𝐬
 <ul>
   <li>Customer Satisfaction: 3 (likely out of 5, indicating room for improvement).</li>
   <li>Total Orders: 10K orders processed.</li>

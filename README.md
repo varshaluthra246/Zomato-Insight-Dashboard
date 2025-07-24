@@ -27,11 +27,11 @@ The primary objective of this dashboard is to provide insights into Zomato’s b
 
 # 🖊️Key insights-
 
-✅ Restaurant Performance: Johnson PLC dominates in terms of order amounts, with a significant lead over others.
-✅ Order Trend: A steep decline in orders in 2025, suggesting the need for further investigation.
-✅ Customer Ratings: Even distribution of ratings across all categories, indicating a balanced customer experience.
-✅ Cuisine Preferences: Thai, American, and Italian cuisines drive the majority of orders, which can inform marketing and menu expansion strategies.
-✅ Delivery Times: Uniform delivery times across locations suggest efficient logistics but opportunities for improvement in speed.
+✅ Restaurant Performance: Johnson PLC dominates in terms of order amounts, with a significant lead over others. <br>
+✅ Order Trend: A steep decline in orders in 2025, suggesting the need for further investigation. <br>
+✅ Customer Ratings: Even distribution of ratings across all categories, indicating a balanced customer experience. <br>
+✅ Cuisine Preferences: Thai, American, and Italian cuisines drive the majority of orders, which can inform marketing and menu expansion strategies. <br>
+✅ Delivery Times: Uniform delivery times across locations suggest efficient logistics but opportunities for improvement in speed. <br>
 
 # 🛠 𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
 <ul>
@@ -42,10 +42,10 @@ The primary objective of this dashboard is to provide insights into Zomato’s b
 
 # 💡 What I Learned:
 
-📌Hands-on experience in Power BI for data visualization.
-📌 Use the state filter to drill down into geographical performance and identify areas for growth.
-📌 Improved skills in data storytelling to drive actionable insights.
-📌 Gained industry exposure in business intelligence & analytics.
+📌Hands-on experience in Power BI for data visualization. <br>
+📌 Use the state filter to drill down into geographical performance and identify areas for growth. <br>
+📌 Improved skills in data storytelling to drive actionable insights. <br>
+📌 Gained industry exposure in business intelligence & analytics. <br>
 
 # Conclusion-
 
